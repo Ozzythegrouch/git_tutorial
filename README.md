@@ -2,7 +2,8 @@
 ## Going through the process of building a git repository
 ### Using command prompt and visual studio code
 
-// git commands
+#### git commands
+
 git init - git starts tracking changes in folder
 git status - shows all changes between previous commit
 git log - commit history
@@ -39,3 +40,7 @@ git remote -v  verbose gives more details
 
 git push - upload to github
 pull- downloading
+root = the outer folder of our repository
+
+once pushed to github theres a master branch
+
